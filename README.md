@@ -17,4 +17,6 @@ This folder "Repo" is committed and files are pushed to the remote branch
 # Motivation
 Lately, I have been working more on my competetive programming and less on development, but I didnt want my GitHub to feel empty when I'm doing some form of work. So I decided to push the codes I was practicing, individually. Instead of committing each code, I felt it would be easier to save all the files in a folder and automate the  committing part.
 
-
+# To do
+Error Handling  
+Success/ Failure Messages  
