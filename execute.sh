@@ -1,4 +1,4 @@
-#!/bin/sh
+i#!/bin/sh
 
 for f in newData/*
 do
@@ -7,7 +7,9 @@ do
     cd Repo
     git add .
     git commit -m "Adding $fname"
-    git push origin master
     cd ..
 done
+cd Repo
+git push origin master
+cd ..
 
